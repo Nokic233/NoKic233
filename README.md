@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Full Stack FE, Recently fallen in love with 3D.
 <!--
 **Nokic233/NoKic233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
